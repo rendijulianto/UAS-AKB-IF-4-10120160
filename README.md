@@ -5,7 +5,7 @@
 
 
 Aplikasi Catatan Harian 
-Aplikasi Catatan Harian adalah sebuah proyek yang dikembangkan untuk Tugas UTS semester genap tahun 2023 dalam mata kuliah Aplikasi Komputer Bergerak (AKB). Proyek ini ditujukan untuk memenuhi tugas dengan NIM 10120160 IF-4 dari Program Studi Teknik Informatika UNIKOM.
+Aplikasi Catatan Harian adalah sebuah proyek yang dikembangkan untuk Tugas UAS semester genap tahun 2023 dalam mata kuliah Aplikasi Komputer Bergerak (AKB). Proyek ini ditujukan untuk memenuhi tugas dengan NIM 10120160 IF-4 dari Program Studi Teknik Informatika UNIKOM.
 
 
 ## Deskripsi Proyek
