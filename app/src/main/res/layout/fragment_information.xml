@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- NIM: 10120160 | Nama : Rendi Julianto | Kelas : IF-4 -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingHorizontal="20dp"
+    >
+
+    <!-- Judul -->
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Informasi Aplikasi"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp" />
+
+    <!-- Logo -->
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/logo_catet"
+        android:layout_below="@id/titleTextView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp" />
+
+    <!-- Deskripsi -->
+    <TextView
+        android:id="@+id/descriptionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Catat ID adalah aplikasi praktis untuk mencatat aktifitas harian Anda. Dengan tampilan yang sederhana dan intuitif, Anda dapat dengan mudah mencatat kegiatan, tugas, dan peristiwa penting dalam hidup Anda. Organisasi yang efisien dan fitur pengingat yang disediakan oleh Catat ID memungkinkan Anda untuk menjaga jadwal dan memastikan tidak ada lagi momen yang terlewatkan. Sederhanakan hidup Anda dengan Catat ID dan nikmati pengalaman pencatatan yang efektif dan mudah digunakan."
+        android:layout_below="@id/logoImageView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp" />
+
+    <!-- Fitur -->
+    <TextView
+        android:id="@+id/fiturTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pencatatan Aktivitas Harian yang Efisien dan Mudah dengan Catat ID"
+        android:layout_below="@id/descriptionTextView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp" />
+
+    <!-- Versi -->
+    <TextView
+        android:id="@+id/versionTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tugas UAS Genap 2023 AKB IF-4 10120160"
+        android:layout_below="@id/fiturTextView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp" />
+
+
+
+</RelativeLayout>

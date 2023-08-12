@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1029341444889",
+    "firebase_url": "https://catatan-id-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "catatan-id",
+    "storage_bucket": "catatan-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029341444889:android:f9c464a3931f2e5f442388",
+        "android_client_info": {
+          "package_name": "com.proyek.catatid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029341444889-stcmfn68vs109f56v3nk2s1jl1njsp4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDadDVQugG0YjUzB-MRKfh-RPkXV9feuw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029341444889-8g1mm6dk60ccj3dn2od1gd691oahg2g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029341444889:android:9edca880e1f1d33e442388",
+        "android_client_info": {
+          "package_name": "com.proyek.uasakbif410120160"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029341444889-stcmfn68vs109f56v3nk2s1jl1njsp4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDadDVQugG0YjUzB-MRKfh-RPkXV9feuw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029341444889-8g1mm6dk60ccj3dn2od1gd691oahg2g2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
